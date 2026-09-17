@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { motion } from 'motion/react'
-import resume from '../assets/Shorov_Saha_Resume.pdf'
+import resume from '../assets/Shorov-Saha-Resume.pdf'
 
 const LINES = [
   { type: 'cmd', text: 'whoami' },
